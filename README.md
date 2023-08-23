@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kaimo455)](https://github.com/anuraghazra/github-readme-stats)
+[![Aim](https://img.shields.io/badge/powered%20by-Aim-%231473E6)](https://github.com/aimhubio/aim)
